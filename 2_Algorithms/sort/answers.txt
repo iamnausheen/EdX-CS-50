@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: It takes the least amount of time to sort the already sorted data.
+
+sort2 uses: Merge sort
+
+How do you know?: It takes the least amount of time to sort the random and reversed data.
+
+sort3 uses: Selection sort
+
+How do you know?: On taking various readings of run time with reversed and sorted data and finding the relationship with the
+                  amount of data, the results gave Big O and Big Omega Notations as n^2. Also it was the last one left.
